@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ImWhatsapp } from "react-icons/im";
 import { SiShopee } from "react-icons/si";
 import bgDams from "./assets/BgDamsenigma.jpg";
-import logo from "./assets/damsEnigma.jpg";
+import logo from "./assets/logos.jpg";
 import topedGreen from "./assets/toped.svg";
 import topedWhite from "./assets/topedWhite.svg";
 
