@@ -49,7 +49,7 @@ function App() {
         </div>
       </div> */}
       <div className="flex flex-col gap-5">
-        <a href="http://shopee.co.id/el.aydacataloug">
+        <a href="https://shopee.co.id/damsenigma">
           <button className="p-3 w-[350px] rounded-full bg-[#F05D40] text-white text-[24px] flex flex-row items-center justify-around hover:bg-gray-300 hover:text-[#F05D40]">
             <SiShopee size={30} />
             Shopee
